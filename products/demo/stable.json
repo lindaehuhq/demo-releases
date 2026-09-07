@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "productId": "demo",
+  "channel": "stable",
+  "revision": 1,
+  "generatedAt": "2026-09-07T16:32:25Z",
+  "enabled": true,
+  "latestVersion": "1.0.0",
+  "build": 1,
+  "minimumVersion": "",
+  "blockedVersions": [],
+  "allowDowngrade": false,
+  "force": false,
+  "forceAfter": "",
+  "rolloutPercent": 100,
+  "rolloutSalt": "1.0.0",
+  "recheckIntervalMinutes": 240,
+  "publishedAt": "2026-09-07T16:32:25Z",
+  "title": "测试标题",
+  "notes": "测试说明",
+  "releasePageUrl": "https://github.com/lindaehuhq/demo-releases/releases/tag/v1.0.0",
+  "assets": {
+    "windows-amd64": {
+      "fileName": "demo-1.0.0-windows-amd64.exe",
+      "size": 18511388,
+      "sha256": "e90e840191758833a2cacc7e045d9c724dcb0d9c3267e72d6296344398edb98a",
+      "downloadUrls": [
+        "https://ghproxy.net/https://github.com/lindaehuhq/demo-releases/releases/download/v1.0.0/demo-1.0.0-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/demo-releases/releases/download/v1.0.0/demo-1.0.0-windows-amd64.exe",
+        "https://github.com/lindaehuhq/demo-releases/releases/download/v1.0.0/demo-1.0.0-windows-amd64.exe"
+      ]
+    }
+  },
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "message": "",
+    "startsAt": "",
+    "endsAt": ""
+  }
+}
