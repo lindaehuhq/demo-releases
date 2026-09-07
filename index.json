@@ -1,1 +1,14 @@
-{}
+{
+  "generatedAt": "2026-09-07T16:32:25Z",
+  "products": [
+    {
+      "channels": [
+        "stable"
+      ],
+      "id": "demo",
+      "manifestPath": "products/demo/{channel}.json",
+      "name": "测试产品"
+    }
+  ],
+  "schemaVersion": 2
+}
