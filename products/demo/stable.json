@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "demo",
   "channel": "stable",
-  "revision": 4,
-  "generatedAt": "2026-11-10T01:51:53Z",
+  "revision": 5,
+  "generatedAt": "2026-11-10T01:53:34Z",
   "enabled": true,
   "latestVersion": "1.0.0",
   "build": 1,
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "id": "",
-    "message": "",
+    "enabled": true,
+    "id": "546697dcc155",
+    "message": "测试公告",
     "startsAt": "",
     "endsAt": ""
   }
