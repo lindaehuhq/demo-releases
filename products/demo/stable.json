@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "demo",
   "channel": "stable",
-  "revision": 6,
-  "generatedAt": "2026-11-10T01:58:09Z",
+  "revision": 7,
+  "generatedAt": "2026-11-10T01:58:52Z",
   "enabled": true,
   "latestVersion": "1.0.0",
   "build": 1,
@@ -17,7 +17,7 @@
   "recheckIntervalMinutes": 240,
   "publishedAt": "2026-09-07T16:09:41Z",
   "title": "测试标题",
-  "notes": "1. 测试一\n2. 测试二",
+  "notes": "测试说明",
   "releasePageUrl": "https://github.com/lindaehuhq/demo-releases/releases/tag/v1.0.0",
   "assets": {
     "windows-amd64": {
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": true,
-    "id": "546697dcc155",
-    "message": "测试公告",
+    "enabled": false,
+    "id": "",
+    "message": "",
     "startsAt": "",
     "endsAt": ""
   }
