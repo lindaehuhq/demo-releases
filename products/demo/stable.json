@@ -2,19 +2,19 @@
   "schemaVersion": 2,
   "productId": "demo",
   "channel": "stable",
-  "revision": 21,
-  "generatedAt": "2026-11-11T16:02:37Z",
+  "revision": 22,
+  "generatedAt": "2026-11-13T13:27:20Z",
   "enabled": true,
   "latestVersion": "1.0.0",
   "build": 3,
   "minimumVersion": "",
   "blockedVersions": [
-    "1.0.0"
+    "99.0.0"
   ],
   "allowDowngrade": false,
   "force": false,
   "forceAfter": "",
-  "rolloutPercent": 100,
+  "rolloutPercent": 0,
   "rolloutSalt": "1.0.0",
   "recheckIntervalMinutes": 240,
   "publishedAt": "2026-11-11T14:54:40Z",
